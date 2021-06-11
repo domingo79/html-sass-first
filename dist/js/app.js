@@ -7,7 +7,7 @@
   \********************/
 /***/ (() => {
 
-alert('Installato correttamente');
+
 
 /***/ }),
 
